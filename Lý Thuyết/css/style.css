@@ -11,6 +11,7 @@ a{
 	width:315px;
 	background-color:#e6f3fb;
 	padding:10px;
+	margin:0px auto;
 }
 .div_blogroll, .div_horoscopes{
 	width:100%;
